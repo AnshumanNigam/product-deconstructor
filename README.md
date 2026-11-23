@@ -151,7 +151,7 @@ It distinguishes observed user complaints from measured product analytics and hy
 Clone this repository into your personal Codex skills directory:
 
 ```powershell
-git clone https:/github.com/AnshumanNigam/product-deconstructor.git "$HOME\.agents\skills\product-deconstructor"
+git clone https://github.com/AnshumanNigam/product-deconstructor.git "$HOME\.agents\skills\product-deconstructor"
 ```
 
 Alternatively, place the repository folder inside your project's:
